@@ -1,4 +1,8 @@
 # AIE-1W1MLimgclassification
+
+![alt text](https://github.com/Hakulani/AIE-1W1MLimgclassification/blob/main/rferfge.JPG?raw=true)
+
+
 AI Essential1 Week1 image classification botnoi ,  keras ,tenserflow
 
 Create dataset from using google searching image file and save to folder

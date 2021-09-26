@@ -1,4 +1,4 @@
-# AIE#1 Week1 Imgar classification
+AIE#1 Week1 Image classification machine learning
 
 ![alt text](https://github.com/Hakulani/AIE-1W1MLimgclassification/blob/main/rferfge.JPG?raw=true)
 
